@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisvickers/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisvickers/Portfolio/issues"
+  },
+  "homepage": "https://github.com/chrisvickers/Portfolio#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
